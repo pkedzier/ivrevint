@@ -2,7 +2,12 @@
 
 Please create a method with given signature:
 `public int reverse(int x)`
+
+
 result: Please return int with reversed digits
+
+requirements: You can use only int numeric type
+(boolean and other types are allowed)
 
 Examples:
 |x      |result          |

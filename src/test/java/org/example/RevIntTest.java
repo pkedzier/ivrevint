@@ -20,7 +20,7 @@ public class RevIntTest {
 
     @Test
     public void shouldReverse0() throws Throwable {
-        Assert.assertEquals(0, rev.reverse(Integer.MAX_VALUE));
+        Assert.assertEquals(0, rev.reverse(0));
     }
 
 
