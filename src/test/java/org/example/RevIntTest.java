@@ -10,7 +10,11 @@ public class RevIntTest {
 
     @Test
     public void shouldReversePositiveNumber() throws Throwable {
-        Assert.assertEquals(123, rev.reverse(321));
+        Assert.assertEquals(12345, rev.reverse(54321));
+    }
+    @Test
+    public void shouldReversePositiveNumberCase2() throws Throwable {
+        Assert.assertEquals(1756, rev.reverse(6571));
     }
 
     @Test
