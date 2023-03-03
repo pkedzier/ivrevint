@@ -20,8 +20,8 @@ Examples:
 Allowed types (examples):
 |you can use      |you can't use   |
 |-----------------|----------------|
-|String-----------|Long------------|
-|Boolean----------|BigDecimal------|
-|...--------------|...-------------|
+|String           |Long            |
+|Boolean          |BigDecimal      |
+|...              |...             |
 
 
