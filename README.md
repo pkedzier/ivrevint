@@ -6,8 +6,9 @@ Please create a method with given signature:
 
 result: Please return int with reversed digits
 
-requirements: You can use only int numeric type
-(boolean and other types are allowed)
+requirements: 
+  - You can use only int numeric type (boolean and other types are allowed)
+  - When `result > MAX_INTEGER` or `result < MIN_INTEGER` please return 0
 
 Examples:
 |x      |result          |
