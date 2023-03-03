@@ -23,6 +23,7 @@ Allowed types (examples):
 |-----------------|----------------|
 |String           |Long            |
 |Boolean          |BigDecimal      |
+|Integer          |...             |
 |...              |...             |
 
 
