@@ -17,3 +17,11 @@ Examples:
 |0      |0               |
 
 
+Allowed types (examples):
+|you can use      |you can't use   |
+|-----------------|----------------|
+|String-----------|Long------------|
+|Boolean----------|BigDecimal------|
+|...--------------|...-------------|
+
+
